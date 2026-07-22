@@ -4,7 +4,7 @@
 // --------------------------------------------
 // 1. Output Methods
 // --------------------------------------------
-/*console.log("Lavanyamd"); //browser sonsole
+console.log("Lavanyamd"); //browser sonsole
 alert("branch"); //popup
 document.write("computer science <br>"); //on the web page 
 // --------------------------------------------
@@ -192,7 +192,6 @@ document.write("<h2>Program 10: Area of the rectangle</h2>");
 document.write("Length:"+length+"<br>");
 document.write("breadth:"+breadth+"<br>");
 document.write("Area:"+area+"<br>");
-*/
 // --------------------------------------------
 // Program 11 : Perimeter of Rectangle
 // --------------------------------------------
