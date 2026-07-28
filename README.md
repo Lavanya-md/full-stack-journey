@@ -11,28 +11,28 @@ This repository documents my hands-on learning experience as I build my skills i
 The goal of this journey is to strengthen my programming fundamentals, develop practical web development skills, and build projects that help me prepare for a career in Full Stack Development.
 
 📚 Learning Roadmap
+
 ✅ Task 1 — JavaScript Fundamentals
-Variables and Data Types
-Operators
-Input and Output
-20 Basic JavaScript Programs
+- Variables and Data Types
+- Operators
+- Input and Output
+- 20 Basic JavaScript Programs
+
+Status: Completed ✅
+✅ Task 2 — Conditional Statements & Loops
+- If-Else
+- Switch-Case
+- For Loop
+- While Loop
+- Do-While Loop
+- Pattern Programs
+- Factorial
+- Prime Numbers
+- Fibonacci Series
 
 Status: Completed ✅
 
-🔄 Task 2 — Conditional Statements & Loops
-If-Else
-Switch-Case
-For Loop
-While Loop
-Do-While Loop
-Pattern Programs
-Factorial
-Prime Numbers
-Fibonacci Series
-
-Status: In Progress 🔄
-
-⏳ Task 3 — Functions, Arrays, Strings & Objects
+🔄 Task 3 — Functions, Arrays, Strings & Objects
 Reusable Functions
 Arrays
 Strings
@@ -40,7 +40,7 @@ Objects
 Built-in JavaScript Methods
 25+ Coding Problems
 
-Status: Upcoming
+Status: Ongoing
 
 ⏳ Task 4 — DOM Manipulation
 Dynamic Webpages
@@ -85,8 +85,8 @@ Git & GitHub
 📈 Progress
 
 Task 1: ✅ Completed
-Task 2: 🔄 In Progress
-Task 3: ⏳ Upcoming
+Task 2: ✅ In Progress
+Task 3: 🔄 Upcoming
 Task 4: ⏳ Upcoming
 Task 5: ⏳ Upcoming
 Task 6: ⏳ Upcoming
