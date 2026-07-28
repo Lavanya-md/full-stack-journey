@@ -19,6 +19,7 @@ The goal of this journey is to strengthen my programming fundamentals, develop p
 - 20 Basic JavaScript Programs
 
 Status: Completed ✅
+
 ✅ Task 2 — Conditional Statements & Loops
 - If-Else
 - Switch-Case
