@@ -86,8 +86,8 @@ Git & GitHub
 📈 Progress
 
 Task 1: ✅ Completed
-Task 2: ✅ In Progress
-Task 3: 🔄 Upcoming
+Task 2: ✅ Completed
+Task 3: 🔄 In progress
 Task 4: ⏳ Upcoming
 Task 5: ⏳ Upcoming
 Task 6: ⏳ Upcoming
